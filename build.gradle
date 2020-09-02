@@ -16,7 +16,7 @@ plugins {
 }
 
 group = 'com.deliveryhero.example'
-version = '0.0.1-SNAPSHOT'
+version = '0.0.1'
 sourceCompatibility = '14'
 
 configurations {
